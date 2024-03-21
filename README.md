@@ -1,2 +1,6 @@
 # EEE3088F Group_13
- EEE3088F Group 13 Repo 
+## Authors:
+Azrah Dick and Ethan Faraday 
+### Authors Note:
+This project was for the 3088F Micromouse design project. Azrah handled the Power Subsystem, and Ethan handled the Sensor Subsystem.
+ 
