@@ -7,7 +7,7 @@ Ethan Faraday
 This folder is for the design of the sensing module for the Micro-mouse design project. This was a very enjoyable design project despite certain setbacks.
 
 ## Navigation of this repo
-In this repository, you will find all the files needed to design and build the PCB, and finally the code required to interface it with the STM32 board. In "KiCad Design Files' you will find all the design files required to build the PCB. In 'Datasheets' you will find the datasheets for the components used. In 'Code/ADC/src/main.c' you will find the code for interfacing with the STM32 board.
+In this repository, you will find all the files needed to design and build the PCB, and finally the code required to interface it with the STM32 board. In "KiCad Design Files' you will find all the design files required to build the PCB. In 'Datasheets' you will find the datasheets for the components used. In 'Code/FRDETH004_Code\adc\Core\Src\main.c' you will find the code for interfacing with the STM32 board.
 
 ## Design Decisions:
 
